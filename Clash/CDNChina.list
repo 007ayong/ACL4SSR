@@ -5,4 +5,7 @@ DOMAIN-SUFFIX,trello.com
 DOMAIN-SUFFIX,a.trellocdn.com
 DOMAIN-SUFFIX,api-gateway.trello.com
 
+# Files
+DOMAIN,cdn.files.community
+
 IP-CIDR,176.122.163.0/16,no-resolve
